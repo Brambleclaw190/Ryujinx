@@ -1,3 +1,5 @@
+Forked for preservation purposes
+
 <h1 align="center">
   <br>
   <a href="https://ryujinx.org/"><img src="https://i.imgur.com/eO8zXO3.png" alt="Ryujinx" width="150"></a>
